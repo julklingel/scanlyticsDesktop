@@ -3,6 +3,8 @@
   	import LinkButton from './components/ui/linkButton.svelte';
 	export let link = './login';
 	export let buttonText = 'Login';
+
+
 	
 
 </script>
